@@ -1,0 +1,11 @@
+org\hotelapp\BaseClass.class
+StepDefinition\HooksClass.class
+org\hotelapp\LoginPage.class
+org\hotelapp\BookAHotelPage.class
+StepDefinition\StepDefinitionClass.class
+org\hotelapp\SelectHotelPage.class
+StepDefinition\CustomizedReport.class
+org\hotelapp\BookedItineraryPage.class
+org\hotelapp\BookingConfirmationPage.class
+org\hotelapp\SearchHotelPage.class
+org\hotelapp\TestRunner.class
