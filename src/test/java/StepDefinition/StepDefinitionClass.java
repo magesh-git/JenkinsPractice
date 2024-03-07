@@ -102,7 +102,7 @@ public class StepDefinitionClass extends BaseClass {
 		waits();
 		//Assert.assertTrue(false);
 		click(itinerary);
-		System.out.println("Execution is completed");
+		
 	}
 	
 
