@@ -19,7 +19,7 @@ public class HooksClass extends BaseClass{
 		browserLaunch();
 	}
 	
-	@AfterStep
+	@After
 	public void tearDown(Scenario scenario) throws IOException, InterruptedException {
 		
 		if(scenario.isFailed()) 
